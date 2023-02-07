@@ -6,4 +6,4 @@ change by me from the github.
 
 this is added from feature branch.
 
-solving the issue #id_number
+logo alignment is centered.
